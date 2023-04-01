@@ -15,7 +15,7 @@ public class TestDB {
     }
     @Test
     public void test1() throws SQLException {
-       statemenT.selectByFieldName(ADRESSFIELDS.NAME,"Vasiljjjdy");
+       statemenT.selectByFieldName(ADRESSFIELDS.NAME,"Vasiliy");
     }
     @Test
     public void test2() throws SQLException {
